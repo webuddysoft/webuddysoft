@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am a full stack developer with 12+ years of experience in web development 👋
 
 <!--
 **beadsea1114/beadsea1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
