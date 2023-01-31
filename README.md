@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fullstack developer with 14+ years of experience in web development</h1>
+<h1 align="center">Hi, I'm Fullstack developer with 10+ years of experience in web development</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webuddysoft&label=Profile%20views&color=0e75b6&style=flat" alt="webuddysoft" /> </p>
 
